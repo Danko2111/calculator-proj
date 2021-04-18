@@ -1,0 +1,63 @@
+body{
+background-color: rgb(39, 39, 39);
+display: block;
+align-items: center;
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+
+section{
+    width:75%;
+    margin: auto;
+
+}
+
+fieldset#Screen{
+    display: block;
+    text-align: center;
+    background-color: rgb(79, 98, 122);
+}
+
+fieldset#Input{
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(79, 98, 122);
+
+
+}
+
+legend{
+    background-color: lightsteelblue;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+label{
+    color: white;
+}
+
+input{
+    background-color:rgb(11, 14, 29) ;
+    color: white;
+}
+
+textarea{
+    background-color:rgb(11, 14, 29) ;
+    color: white;
+    width: 75%;
+    height: 100px;
+}
+
+div#Operands{
+    margin-top: 5px;
+}
+
+div#Operator{
+    margin-top: 15px;
+}
